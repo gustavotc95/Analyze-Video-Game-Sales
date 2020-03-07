@@ -15,4 +15,5 @@ Análise dos dados das vendas de mais de 16.500 jogos (Dataset from [kaggle](htt
 ##### Fontes
 
 [Blog Paulo Vasconcellos](https://paulovasconcellos.com.br/)
+
 [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)
